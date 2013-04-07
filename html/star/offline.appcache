@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1364872333
+#1365174442
 index.html
 c2runtime.js
 jquery-1.7.1.min.js
@@ -21,7 +21,6 @@ images\sprite3-sheet0.png
 images\sprite4-sheet0.png
 images\tiledbackground3.png
 images\sprite5-sheet0.png
-images\sprite6-sheet0.png
 images\ammo-sheet0.png
 images\sprite7-sheet0.png
 images\sprite8-sheet0.png
@@ -36,7 +35,6 @@ media\health%20demo2.m4a
 media\health%20demo2.ogg
 media\begnining_copy.m4a
 media\begining.ogg
-media\super%20scary%20ghost%20king.ogg
 media\eatingme.ogg
 media\eatingme%20-%20copy.ogg
 media\wellnowifeellikeimgonnapotcry.ogg
@@ -45,8 +43,9 @@ media\eatingme2.ogg
 media\meowmeowmeow.ogg
 media\smoothjazz.ogg
 media\hungry.ogg
-media\demo%20music.ogg
-media\demo%20music.m4a
+media\poof.ogg
+media\splode.ogg
+media\super%20scary%20ghost%20king2.ogg
 media\demo_music.m4a
 media\demo_music.ogg
 NETWORK:
