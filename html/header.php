@@ -28,8 +28,8 @@
 				<div class="container-fluid">
 					<a class="brand" href="/">MobiGameDev</a>
 					<ul class="nav">
-						<li class="active"><a href="/demogame/">Demo Game</a></li>
-						<li class="active"><a href="/star/">Star Cat Fish</a></li>
+						<li class="active"><a href="/demogame/index.php">Demo Game</a></li>
+						<li class="active"><a href="/star/index.php">Star Cat Fish</a></li>
 					</ul>
 				</div>
 			</div>
