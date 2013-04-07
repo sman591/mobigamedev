@@ -6,7 +6,7 @@
 				
 					<div class="page-header">
 					
-						<h1>Star Cat Fish, the game</h1>
+						<h1>Demo Game</h1>
  
 					</div>
 				
